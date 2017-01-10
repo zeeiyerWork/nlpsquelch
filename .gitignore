@@ -1,0 +1,16 @@
+
+*.class
+
+*.lst
+
+*.prefs
+
+.classpath
+
+.#test.txt
+
+.project
+
+#test.txt#
+
+*.txt#
